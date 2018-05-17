@@ -19,15 +19,15 @@ This application shows a list of posts from [JSON Placeholder](https://jsonplace
 
 # Design
 * LaunchScreen 
-  ![LaunchScreen](/Resources/LaunchScreen.png?raw=true "LaunchScreen") 
+  <img src="/Resources/LaunchScreen.png" width="400"> 
 * PostsList
-  ![PostsList](/Resources/PostsList.png?raw=true "PostsList")
+  <img src="/Resources/PostsList.png" width="400">
 * PostDetail
-  ![PostDetail](/Resources/PostDetail.png?raw=true "PostDetail")
+  <img src="/Resources/PostDetail.png" width="400"> 
 * PostsListWithFavorites
-  ![PostsListWithFavorites](/Resources/PostsListWithFavorites.png?raw=true "PostsListWithFavorites")
+  <img src="/Resources/PostsListWithFavorites.png" width="400"> 
 * PostsListFiltered
-  ![PostsListFiltered](/Resources/PostsListFiltered.png?raw=true "PostsListFiltered")
+  <img src="/Resources/PostsListFiltered.png" width="400"> 
 
 # Addition notes
 If you have any suggestion or improvement feel free to contact me and we can discuss about it.

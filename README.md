@@ -19,14 +19,19 @@ This application shows a list of posts from [JSON Placeholder](https://jsonplace
 
 # Design
 * LaunchScreen 
+
   <img src="/Resources/LaunchScreen.png" width="400"> 
 * PostsList
+
   <img src="/Resources/PostsList.png" width="400">
 * PostDetail
+
   <img src="/Resources/PostDetail.png" width="400"> 
 * PostsListWithFavorites
+
   <img src="/Resources/PostsListWithFavorites.png" width="400"> 
 * PostsListFiltered
+
   <img src="/Resources/PostsListFiltered.png" width="400"> 
 
 # Addition notes
